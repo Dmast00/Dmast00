@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Obed</h1>
 <h3 align="center">A passionate developer from Mexico</h3>
 
-<p align="center">-🌱 I’m currently learning **Angular & C# Web API`S**</p> 
+<p align="center">-🌱 I’m currently learning Angular & C# Web API`S</p> 
 
 
 <h3 align="center">Languages and Tools:</h3>
