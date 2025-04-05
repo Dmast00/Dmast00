@@ -11,6 +11,6 @@ Hi 👋, I'm Obed<br>A passionate developer from Mexico 🇲🇽<br><br>🚀 I l
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dmat00&icon=0&color=0)](https://visitcount.itsvg.in)
+[![]([https://visitcount.itsvg.in/api?id=Dmat00&icon=0&color=0](https://profile-summary-for-github.com/user/dmast00))](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
