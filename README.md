@@ -13,6 +13,6 @@ Hi 👋, I'm Obed<br>A passionate developer from Mexico 🇲🇽<br><br>🚀 I l
 ---
 ![Obed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmast00&show_icons=true&theme=radical)
 
-<img src="https://github.com/ObedUsername/dmast00/blob/output/github-contribution-grid-snake.svg" />
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
