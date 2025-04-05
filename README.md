@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Obed<br>A passionate developer from Mexico 🇲🇽<br><br>🚀 I love building web applications and exploring new technologies.<br>🌱 I’m currently learning Angular & C# Web APIs.<br>💡 Always looking to improve and share knowledge with the community.<br><br>🛠️ Languages and Tools:<br>Frontend: Angular, HTML, CSS, JavaScript, TypeScript<br><br>Backend: C#, ASP.NET Core Web API<br><br>Database: SQL Server<br><br>Others: Git, GitHub, Visual Studio, Postman, Swagger<br><br>Let's build something amazing together! 💻✨
+Hi 👋, I'm Obed<br>A passionate developer from Mexico 🇲🇽<br><br>🚀 I love building web applications and exploring new technologies.<br>🌱 I’m currently learning Angular & C# Web APIs.<br>💡 Always looking to improve and share knowledge with the community.<br><br>🛠️ <br>Let's build something amazing together! 💻✨
 
 
 ## 🌐 Socials:
