@@ -11,6 +11,8 @@ Hi 👋, I'm Obed<br>A passionate developer from Mexico 🇲🇽<br><br>🚀 I l
 
 
 ---
+![Obed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ObedUsername&show_icons=true&theme=radical)
+
 [![]([https://visitcount.itsvg.in/api?id=Dmat00&icon=0&color=0](https://profile-summary-for-github.com/user/dmast00))](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
