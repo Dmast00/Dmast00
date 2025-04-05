@@ -13,7 +13,7 @@ Hi 👋, I'm Obed<br>A passionate developer from Mexico 🇲🇽<br><br>🚀 I l
 ---
 ![Obed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmast00&show_icons=true&theme=radical)
 ---
-![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ObedUsername&theme=monokai)
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dmast00&theme=monokai)
 
 
 
